@@ -1,0 +1,15 @@
+.full {
+	width: 99vw;
+	height: 99vh;
+}
+
+.center-it {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	font-size: 4em;
+}
